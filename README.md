@@ -1,0 +1,2 @@
+# -analisis-ecommerce-espana
+Análisis del comercio electrónico en España con datos de la CNMC y pronósticos de ventas para 92 actividades hasta 2028.
